@@ -1,0 +1,11 @@
+C:\Users\Sheb_fb50\Desktop\Playe\Player\bin\Debug\Player.exe.config
+C:\Users\Sheb_fb50\Desktop\Playe\Player\bin\Debug\Player.exe
+C:\Users\Sheb_fb50\Desktop\Playe\Player\bin\Debug\Player.pdb
+C:\Users\Sheb_fb50\Desktop\Playe\Player\bin\Debug\NAudio.dll
+C:\Users\Sheb_fb50\Desktop\Playe\Player\bin\Debug\NAudio.xml
+C:\Users\Sheb_fb50\Desktop\Playe\Player\obj\Debug\Player.Pl.resources
+C:\Users\Sheb_fb50\Desktop\Playe\Player\obj\Debug\Player.Properties.Resources.resources
+C:\Users\Sheb_fb50\Desktop\Playe\Player\obj\Debug\Player.Playlist.resources
+C:\Users\Sheb_fb50\Desktop\Playe\Player\obj\Debug\PlayerMp3.csproj.GenerateResource.Cache
+C:\Users\Sheb_fb50\Desktop\Playe\Player\obj\Debug\Player.exe
+C:\Users\Sheb_fb50\Desktop\Playe\Player\obj\Debug\Player.pdb
